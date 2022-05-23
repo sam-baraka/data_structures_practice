@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankPlusMinus\bin\Debug\net6.0\HackerRankPlusMinus.exe
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankPlusMinus\bin\Debug\net6.0\HackerRankPlusMinus.deps.json
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankPlusMinus\bin\Debug\net6.0\HackerRankPlusMinus.runtimeconfig.json
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankPlusMinus\bin\Debug\net6.0\HackerRankPlusMinus.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankPlusMinus\bin\Debug\net6.0\HackerRankPlusMinus.pdb
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankPlusMinus\obj\Debug\net6.0\HackerRankPlusMinus.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankPlusMinus\obj\Debug\net6.0\HackerRankPlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankPlusMinus\obj\Debug\net6.0\HackerRankPlusMinus.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankPlusMinus\obj\Debug\net6.0\HackerRankPlusMinus.AssemblyInfo.cs
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankPlusMinus\obj\Debug\net6.0\HackerRankPlusMinus.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankPlusMinus\obj\Debug\net6.0\HackerRankPlusMinus.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankPlusMinus\obj\Debug\net6.0\refint\HackerRankPlusMinus.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankPlusMinus\obj\Debug\net6.0\HackerRankPlusMinus.pdb
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankPlusMinus\obj\Debug\net6.0\HackerRankPlusMinus.genruntimeconfig.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankPlusMinus\obj\Debug\net6.0\ref\HackerRankPlusMinus.dll
