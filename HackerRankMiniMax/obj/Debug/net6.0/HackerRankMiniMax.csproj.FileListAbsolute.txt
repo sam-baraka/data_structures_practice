@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankMiniMax\bin\Debug\net6.0\HackerRankMiniMax.exe
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankMiniMax\bin\Debug\net6.0\HackerRankMiniMax.deps.json
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankMiniMax\bin\Debug\net6.0\HackerRankMiniMax.runtimeconfig.json
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankMiniMax\bin\Debug\net6.0\HackerRankMiniMax.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankMiniMax\bin\Debug\net6.0\HackerRankMiniMax.pdb
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankMiniMax\obj\Debug\net6.0\HackerRankMiniMax.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankMiniMax\obj\Debug\net6.0\HackerRankMiniMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankMiniMax\obj\Debug\net6.0\HackerRankMiniMax.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankMiniMax\obj\Debug\net6.0\HackerRankMiniMax.AssemblyInfo.cs
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankMiniMax\obj\Debug\net6.0\HackerRankMiniMax.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankMiniMax\obj\Debug\net6.0\HackerRankMiniMax.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankMiniMax\obj\Debug\net6.0\refint\HackerRankMiniMax.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankMiniMax\obj\Debug\net6.0\HackerRankMiniMax.pdb
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankMiniMax\obj\Debug\net6.0\HackerRankMiniMax.genruntimeconfig.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\HackerRankMiniMax\obj\Debug\net6.0\ref\HackerRankMiniMax.dll
