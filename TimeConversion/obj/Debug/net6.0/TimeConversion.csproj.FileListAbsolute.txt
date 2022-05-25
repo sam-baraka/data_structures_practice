@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TimeConversion\bin\Debug\net6.0\TimeConversion.exe
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TimeConversion\bin\Debug\net6.0\TimeConversion.deps.json
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TimeConversion\bin\Debug\net6.0\TimeConversion.runtimeconfig.json
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TimeConversion\bin\Debug\net6.0\TimeConversion.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TimeConversion\bin\Debug\net6.0\TimeConversion.pdb
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TimeConversion\obj\Debug\net6.0\TimeConversion.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TimeConversion\obj\Debug\net6.0\TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TimeConversion\obj\Debug\net6.0\TimeConversion.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TimeConversion\obj\Debug\net6.0\TimeConversion.AssemblyInfo.cs
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TimeConversion\obj\Debug\net6.0\TimeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TimeConversion\obj\Debug\net6.0\TimeConversion.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TimeConversion\obj\Debug\net6.0\refint\TimeConversion.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TimeConversion\obj\Debug\net6.0\TimeConversion.pdb
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TimeConversion\obj\Debug\net6.0\TimeConversion.genruntimeconfig.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TimeConversion\obj\Debug\net6.0\ref\TimeConversion.dll
