@@ -24,7 +24,8 @@ class Result
 
     public static int lonelyinteger(List<int> a)
     {
-        a.ForEach(x =>a.Where(y=>x).);
+        var result = from g in a.GroupBy(x => x) where g.Count() == 1 select g.First();
+        return result.ToList().First();
 
     }
 
@@ -34,7 +35,7 @@ class Solution
 {
     public static void Main(string[] args)
     {
-        TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+      //  TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
         int n = Convert.ToInt32(Console.ReadLine().Trim());
 
@@ -42,9 +43,6 @@ class Solution
 
         int result = Result.lonelyinteger(a);
 
-        textWriter.WriteLine(result);
-
-        textWriter.Flush();
-        textWriter.Close();
+      Console.WriteLine(result);
     }
 }

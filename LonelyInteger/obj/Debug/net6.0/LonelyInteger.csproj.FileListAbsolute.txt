@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\GitHub\data_structures_practice\LonelyInteger\bin\Debug\net6.0\LonelyInteger.exe
+C:\Users\Sam\Documents\GitHub\data_structures_practice\LonelyInteger\bin\Debug\net6.0\LonelyInteger.deps.json
+C:\Users\Sam\Documents\GitHub\data_structures_practice\LonelyInteger\bin\Debug\net6.0\LonelyInteger.runtimeconfig.json
+C:\Users\Sam\Documents\GitHub\data_structures_practice\LonelyInteger\bin\Debug\net6.0\LonelyInteger.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\LonelyInteger\bin\Debug\net6.0\LonelyInteger.pdb
+C:\Users\Sam\Documents\GitHub\data_structures_practice\LonelyInteger\obj\Debug\net6.0\LonelyInteger.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\LonelyInteger\obj\Debug\net6.0\LonelyInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\GitHub\data_structures_practice\LonelyInteger\obj\Debug\net6.0\LonelyInteger.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\LonelyInteger\obj\Debug\net6.0\LonelyInteger.AssemblyInfo.cs
+C:\Users\Sam\Documents\GitHub\data_structures_practice\LonelyInteger\obj\Debug\net6.0\LonelyInteger.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\LonelyInteger\obj\Debug\net6.0\LonelyInteger.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\LonelyInteger\obj\Debug\net6.0\refint\LonelyInteger.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\LonelyInteger\obj\Debug\net6.0\LonelyInteger.pdb
+C:\Users\Sam\Documents\GitHub\data_structures_practice\LonelyInteger\obj\Debug\net6.0\LonelyInteger.genruntimeconfig.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\LonelyInteger\obj\Debug\net6.0\ref\LonelyInteger.dll
