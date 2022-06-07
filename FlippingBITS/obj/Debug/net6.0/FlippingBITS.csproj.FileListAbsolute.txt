@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\GitHub\data_structures_practice\FlippingBITS\bin\Debug\net6.0\FlippingBITS.exe
+C:\Users\Sam\Documents\GitHub\data_structures_practice\FlippingBITS\bin\Debug\net6.0\FlippingBITS.deps.json
+C:\Users\Sam\Documents\GitHub\data_structures_practice\FlippingBITS\bin\Debug\net6.0\FlippingBITS.runtimeconfig.json
+C:\Users\Sam\Documents\GitHub\data_structures_practice\FlippingBITS\bin\Debug\net6.0\FlippingBITS.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\FlippingBITS\bin\Debug\net6.0\FlippingBITS.pdb
+C:\Users\Sam\Documents\GitHub\data_structures_practice\FlippingBITS\obj\Debug\net6.0\FlippingBITS.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\FlippingBITS\obj\Debug\net6.0\FlippingBITS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\GitHub\data_structures_practice\FlippingBITS\obj\Debug\net6.0\FlippingBITS.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\FlippingBITS\obj\Debug\net6.0\FlippingBITS.AssemblyInfo.cs
+C:\Users\Sam\Documents\GitHub\data_structures_practice\FlippingBITS\obj\Debug\net6.0\FlippingBITS.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\FlippingBITS\obj\Debug\net6.0\FlippingBITS.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\FlippingBITS\obj\Debug\net6.0\refint\FlippingBITS.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\FlippingBITS\obj\Debug\net6.0\FlippingBITS.pdb
+C:\Users\Sam\Documents\GitHub\data_structures_practice\FlippingBITS\obj\Debug\net6.0\FlippingBITS.genruntimeconfig.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\FlippingBITS\obj\Debug\net6.0\ref\FlippingBITS.dll
