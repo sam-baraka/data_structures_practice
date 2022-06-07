@@ -24,8 +24,22 @@ class Result
 
     public static long flippingBits(long n)
     {
-        var value=Convert.ToString(n,2);
+        var value=Convert.ToString(n,2).PadLeft(32,'0');
+        char[] array =value.ToCharArray();
+        //Flip the array bits
+        for (int i = 0; i < array.Length; i++)
+        {
+            if(array[i] == array[i-1]&& array[i-1] == array[i - 2])
+            {
+                if (array[i] == '0') {array[i]='1'; array[i-1] = '1'; array[i - 2] = '1'; }
+                else { array[i]='0'; array[i - 1] = '0'; array[i - 2] = '0'; }
+                i += 2;
+            }
+        }
+
+        return Convert.ToInt32(new String(array),2);
     }
+
 
 }
 
