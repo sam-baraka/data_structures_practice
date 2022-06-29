@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qM47KlLG98oMfHZs0aSZGSttKW/3hL5s4rJK/sCfXhUzCLx4mC6RsZN1xp2oFGy3AWTyVDgW/MmQKVefVK0hRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sam\\Documents\\GitHub\\data_structures_practice\\MObile\\MObile.iOS\\MObile.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sam\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sam\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Sam\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TuringTest\bin\Debug\net6.0\TuringTest.exe
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TuringTest\bin\Debug\net6.0\TuringTest.deps.json
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TuringTest\bin\Debug\net6.0\TuringTest.runtimeconfig.json
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TuringTest\bin\Debug\net6.0\TuringTest.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TuringTest\bin\Debug\net6.0\TuringTest.pdb
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TuringTest\obj\Debug\net6.0\TuringTest.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TuringTest\obj\Debug\net6.0\TuringTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TuringTest\obj\Debug\net6.0\TuringTest.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TuringTest\obj\Debug\net6.0\TuringTest.AssemblyInfo.cs
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TuringTest\obj\Debug\net6.0\TuringTest.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TuringTest\obj\Debug\net6.0\TuringTest.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TuringTest\obj\Debug\net6.0\refint\TuringTest.dll
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TuringTest\obj\Debug\net6.0\TuringTest.pdb
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TuringTest\obj\Debug\net6.0\TuringTest.genruntimeconfig.cache
+C:\Users\Sam\Documents\GitHub\data_structures_practice\TuringTest\obj\Debug\net6.0\ref\TuringTest.dll
