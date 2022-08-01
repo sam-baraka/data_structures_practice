@@ -1,0 +1,15 @@
+/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/obj/Debug/net6.0/DiagonalDifference.csproj.AssemblyReference.cache
+/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/obj/Debug/net6.0/DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/obj/Debug/net6.0/DiagonalDifference.AssemblyInfoInputs.cache
+/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/obj/Debug/net6.0/DiagonalDifference.AssemblyInfo.cs
+/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/obj/Debug/net6.0/DiagonalDifference.csproj.CoreCompileInputs.cache
+/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/bin/Debug/net6.0/DiagonalDifference
+/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/bin/Debug/net6.0/DiagonalDifference.deps.json
+/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/bin/Debug/net6.0/DiagonalDifference.runtimeconfig.json
+/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/bin/Debug/net6.0/DiagonalDifference.dll
+/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/bin/Debug/net6.0/DiagonalDifference.pdb
+/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/obj/Debug/net6.0/DiagonalDifference.dll
+/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/obj/Debug/net6.0/refint/DiagonalDifference.dll
+/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/obj/Debug/net6.0/DiagonalDifference.pdb
+/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/obj/Debug/net6.0/DiagonalDifference.genruntimeconfig.cache
+/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/obj/Debug/net6.0/ref/DiagonalDifference.dll
