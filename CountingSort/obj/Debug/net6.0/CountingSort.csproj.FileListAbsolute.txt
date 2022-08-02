@@ -1,0 +1,15 @@
+/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/bin/Debug/net6.0/CountingSort
+/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/bin/Debug/net6.0/CountingSort.deps.json
+/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/bin/Debug/net6.0/CountingSort.runtimeconfig.json
+/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/bin/Debug/net6.0/CountingSort.dll
+/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/bin/Debug/net6.0/CountingSort.pdb
+/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/obj/Debug/net6.0/CountingSort.csproj.AssemblyReference.cache
+/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/obj/Debug/net6.0/CountingSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/obj/Debug/net6.0/CountingSort.AssemblyInfoInputs.cache
+/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/obj/Debug/net6.0/CountingSort.AssemblyInfo.cs
+/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/obj/Debug/net6.0/CountingSort.csproj.CoreCompileInputs.cache
+/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/obj/Debug/net6.0/CountingSort.dll
+/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/obj/Debug/net6.0/refint/CountingSort.dll
+/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/obj/Debug/net6.0/CountingSort.pdb
+/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/obj/Debug/net6.0/CountingSort.genruntimeconfig.cache
+/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/obj/Debug/net6.0/ref/CountingSort.dll

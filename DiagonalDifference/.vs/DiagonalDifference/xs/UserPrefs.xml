@@ -1,16 +1,13 @@
 ﻿<Properties StartupConfiguration="{742A216F-FEAC-401C-B087-68B271025678}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="DiagonalDifference/Program.cs">
     <Files>
-      <File FileName="DiagonalDifference/Program.cs" Line="26" Column="10" />
+      <File FileName="DiagonalDifference/Program.cs" Line="8" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DiagonalDifference" expanded="True">
-            <Node name="DiagonalDifference" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="DiagonalDifference" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -19,10 +16,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DiagonalDifference PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.DiagonalDifference PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

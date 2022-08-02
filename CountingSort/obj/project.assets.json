@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/DiagonalDifference.csproj",
-      "projectName": "DiagonalDifference",
-      "projectPath": "/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/DiagonalDifference.csproj",
+      "projectUniqueName": "/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/CountingSort.csproj",
+      "projectName": "CountingSort",
+      "projectPath": "/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/CountingSort.csproj",
       "packagesPath": "/Users/sababuvercetti/.nuget/packages/",
-      "outputPath": "/Users/sababuvercetti/Projects/data_structures_practice/DiagonalDifference/DiagonalDifference/obj/",
+      "outputPath": "/Users/sababuvercetti/Projects/data_structures_practice/CountingSort/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sababuvercetti/.nuget/NuGet/NuGet.Config"
