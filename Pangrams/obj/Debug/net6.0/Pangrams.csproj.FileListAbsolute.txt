@@ -1,0 +1,15 @@
+/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/bin/Debug/net6.0/Pangrams
+/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/bin/Debug/net6.0/Pangrams.deps.json
+/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/bin/Debug/net6.0/Pangrams.runtimeconfig.json
+/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/bin/Debug/net6.0/Pangrams.dll
+/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/bin/Debug/net6.0/Pangrams.pdb
+/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/obj/Debug/net6.0/Pangrams.csproj.AssemblyReference.cache
+/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/obj/Debug/net6.0/Pangrams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/obj/Debug/net6.0/Pangrams.AssemblyInfoInputs.cache
+/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/obj/Debug/net6.0/Pangrams.AssemblyInfo.cs
+/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/obj/Debug/net6.0/Pangrams.csproj.CoreCompileInputs.cache
+/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/obj/Debug/net6.0/Pangrams.dll
+/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/obj/Debug/net6.0/refint/Pangrams.dll
+/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/obj/Debug/net6.0/Pangrams.pdb
+/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/obj/Debug/net6.0/Pangrams.genruntimeconfig.cache
+/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/obj/Debug/net6.0/ref/Pangrams.dll

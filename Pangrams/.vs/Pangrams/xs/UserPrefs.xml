@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{95675B91-107E-4104-ADAF-45B5EC7F443F}|Default">
-  <MonoDevelop.Ide.ItemProperties.Pangrams FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Pangrams PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/Program.cs" relfile="Program.cs" line="40" column="1" />
+      <Breakpoint file="/Users/sababuvercetti/Projects/data_structures_practice/Pangrams/Program.cs" relfile="Program.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="44" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pangrams" expanded="True">
+            <Node name="Pangrams" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
