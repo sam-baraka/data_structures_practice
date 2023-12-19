@@ -1,19 +1,20 @@
 ﻿<Properties StartupConfiguration="{8940E4AE-46B1-4DFB-BA91-0D3913996068}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TuringTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="10" Column="42" />
+      <File FileName="Program.cs" Line="12" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TuringTest" expanded="True">
-            <Node name="TuringTest" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="TuringTest" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -22,7 +23,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TuringTest PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

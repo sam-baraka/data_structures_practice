@@ -49,7 +49,7 @@ class Result
 
 class Solution
 {
-    public static void Main(string[] args)
+    public static void MMain(string[] args)
     {
         //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
